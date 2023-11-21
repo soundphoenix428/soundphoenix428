@@ -13,4 +13,3 @@ ________________________________________________________________________________
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SoundPhoenix248&label=Profile%20Views&color=0&icon=3&pretty=true" /> 
   _______________________________________________________________________________________________________________________________________________________________________________________________________
-  [Buy Me a Coffee](https://www.buymeacoffee.com/tannerschermerhorn)
