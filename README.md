@@ -5,9 +5,7 @@ ________________________________________________________________________________
 # 📊 My Github Stats
 __________________________________________________________________________________________________________________________________________________________________________________________________
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soundphoenix428&count_private=true&theme=react&showicons=true)]()
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soundphoenix428&langs_count=5&theme=react)]()
-
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=soundphoenix428)](https://github.com/YOUR_USERNAME/github-contribution-stats/)
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 <a href="https://visitcount.itsvg.in">
