@@ -9,7 +9,7 @@
     <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="CLoudflare" src="https://img.shields.io/badge/Cloudflare%20-%23F05033.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-    <img alt="Pterodactyl" src="https://img.shields.io/badge/Pterodactyk%20-%2314354C.svg?&style=for-the-badge&logo=Pterodactyl&logoColor=white"/>
+    <img alt="Pterodactyl" src="https://img.shields.io/badge/Pterodactyl%20-%2314354C.svg?&style=for-the-badge&logo=Pterodactyl&logoColor=white"/>
 </p>
 
 # 🎵 Spotify Stats
