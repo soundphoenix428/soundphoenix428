@@ -13,7 +13,7 @@
 </p>
 
 # 🎵 Spotify Stats
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=baada312576e4600)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6tvbnbu8qq4eggs9koed1o732)
 
 # 📊 My Github Stats
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=soundphoenix428)*
