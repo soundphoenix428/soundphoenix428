@@ -20,11 +20,11 @@
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soundphoenix428&langs_count=5&theme=react) 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soundphoenix428&count_private=true&theme=react&showicons=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________
+[![](https://visitcount.itsvg.in/api?id=SoundPhoenix248&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tannerschermerhorn) 
 ________________________________________________________________________________________________________________________________________________________________________________________
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SoundPhoenix248&label=Profile%20Views&color=0&icon=3&pretty=true" />
+
 
 
